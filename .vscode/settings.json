@@ -1,0 +1,9 @@
+{
+    "editor.codeActionWidget.includeNearbyQuickFixes": true,
+    "extensions.experimental.issueQuickAccess": true,
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.quickSuggestions": {
+        "other": "off"
+    },
+    "chat.commandCenter.enabled": false
+}
